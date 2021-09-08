@@ -7,6 +7,6 @@ d right
 
 w jump
 
-[Try it out](https://JordanElButler.github.io/sketch-2021-09-04)
+[Try it out](https://jordanelbutler.github.io/sketch-2021-09-04)
 
 ![sketch image!](/image.png "sketch")
